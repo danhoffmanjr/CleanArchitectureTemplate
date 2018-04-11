@@ -8,9 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using App.Web.Data;
-using App.Web.Models;
-using App.Web.Services;
+using App.Infrastructure.Data;
+using App.Core.Interfaces;
+using App.Infrastructure.Services;
 
 namespace App.Web
 {

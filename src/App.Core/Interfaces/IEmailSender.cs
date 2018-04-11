@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace App.Web.Services
+namespace App.Core.Interfaces
 {
     public interface IEmailSender
     {

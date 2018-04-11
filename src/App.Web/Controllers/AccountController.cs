@@ -13,6 +13,8 @@ using Microsoft.Extensions.Options;
 using App.Web.Models;
 using App.Web.Models.AccountViewModels;
 using App.Web.Services;
+using App.Infrastructure.Data;
+using App.Core.Interfaces;
 
 namespace App.Web.Controllers
 {
