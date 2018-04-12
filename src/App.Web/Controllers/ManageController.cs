@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.Encodings.Web;
@@ -9,11 +8,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using App.Web.Models;
 using App.Web.Models.ManageViewModels;
 using App.Web.Services;
-using App.Infrastructure.Data;
 using App.Core.Interfaces;
 using App.Core.Entities;
 
