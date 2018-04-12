@@ -15,6 +15,7 @@ using App.Web.Models.AccountViewModels;
 using App.Web.Services;
 using App.Infrastructure.Data;
 using App.Core.Interfaces;
+using App.Core.Entities;
 
 namespace App.Web.Controllers
 {

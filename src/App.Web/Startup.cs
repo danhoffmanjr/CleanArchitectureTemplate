@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using App.Infrastructure.Data;
 using App.Core.Interfaces;
 using App.Infrastructure.Services;
+using App.Core.Entities;
 
 namespace App.Web
 {
